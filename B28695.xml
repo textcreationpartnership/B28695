@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against the prohibiting the wearing of East-India and Persia wrought silks, bengals, dyed and printed callicoes, &amp;c. in England, humbly offered to the consideration of the Honourable House fo Commons.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28695</idno><idno type="EEBO-CITATION">99885968</idno>
+  <idno type="VID">186335</idno>
+  <idno type="EEBO-PROQUEST">2248534173</idno>
+  
+            <idno type="STC">Wing R477aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[137]</idno>
+            <idno type="STC">ESTC R225240</idno>
+            <idno type="PROQUEST">ocm99885968</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885968e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186335)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[132])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against the prohibiting the wearing of East-India and Persia wrought silks, bengals, dyed and printed callicoes, &amp;c. in England, humbly offered to the consideration of the Honourable House fo Commons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Early works to 1800.</term>
+               <term type="topical_term">Textile industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186335:1"/>
+            <head>
+               <hi>REASONS</hi> against the Prohibiting the Wearing of <hi>East-India</hi> and <hi>Persia</hi> Wrought Silks, Bengals, Dyed and Printed Callicoes, <hi>&amp;c.</hi> in <hi>England,</hi> Humbly offered to the Considera<g ref="char:EOLhyphen"/>tion of the Honourable House of Commons.</head>
+            <p>HAving lately presented an Humble Petition to the Honourable <hi>House of Commons</hi> in relation to the Present Case, which, not meeting with the desired Effect, we are induced to believe, that it would be no inconsiderable Service to the whole Kingdom in General, as well as to the Particular Satisfaction of that Honourable House, to Publish the Reasons that Encouraged the Presenting the said <hi>Petition;</hi> where, upon an Equal State of the Matters controverted, it will incontestably appear, how Fatal and <hi>Ʋniversally</hi> Detrimental the Consequences of such a <hi>Prohibition</hi> (as the <hi>Weavers</hi> of <hi>Canterbury, Norwich, &amp;c.</hi> are endeavouring to Obtain in their Bill) must of necessity prove. For <hi>Trade</hi> in General is always free, and will never indure to be Shackel'd and Compell'd; so that when any Nation or Society whatsoever, shall by unreasonable <hi>Prohibitions</hi> or any other Means endeavour to Curb and Restrain her, it will, without doubt, soon make her uneasie in her present Residence, and watch for all opportunities of removing thither, where she is likely to meet with better Quarters, and kinder Entertainment.</p>
+            <p>Besides by a Serious Consideration of the few Reasons following, the utter improbability of such a <hi>Prohibition</hi> ever being able to answer the great ends thereby proposed, will be fully and satisfactorily demonstrated; which now shrouds it self under such <hi>Specious pretences</hi> to no other end in the Upshot, but the enriching some particular Persons, and most of them <hi>Foreigners,</hi> at the unavoidable Expence and hazard of the <hi>Publick</hi> Profit and Advantage.</p>
+            <p>They alledge in behalf of their <hi>Prohibition,</hi> That about Sixteen Years past there was but an inconsiderable Trade at <hi>Canterbury,</hi> in making Wrought Silks and Worsted Stuffs, <hi>&amp;c.</hi> but that now the <hi>English</hi> Industry has mightily increased the Manufactory to the exceeding Diminu<g ref="char:EOLhyphen"/>tion and Prejudice of the <hi>French, Dutch,</hi> and <hi>Italian</hi> Trade.</p>
+            <p>One wou'd think it shou'd be fatally Ominous to the Sticklers for the <hi>Prohibition</hi> to stumble at the first step; for it's beyond contradiction evident, that the difference between the Trade then and now, arose only from the Dearness of those Foreign Commodities, and the Cheap<g ref="char:EOLhyphen"/>ness of <hi>East-India</hi> Goods, which were Imported in the Years 1683, 84, 85, 86, 87, 88. (there being a Contention then between the <hi>Company</hi> and <hi>Interlopers,</hi> and not as they pretend) as can be made appear by the <hi>Custom-House</hi> Books.</p>
+            <p>Besides, 'tis allow'd that the Trade at <hi>Canterbury</hi> and <hi>Norwich</hi> has been mightily encreased this last Year, but not at all upon account of the Reasons which they assign; But from the rise of <hi>Guineas</hi> from 21 <hi>s.</hi> 6 <hi>d.</hi> to 30 <hi>s.</hi> the <hi>Dutch</hi> then taking the Advantage of our Mis<g ref="char:EOLhyphen"/>fortunes, upon the advancing of our Gold, came over, and bought four times the quantity of our Commodities, <hi>viz. Cloth, Stuffs, Serges, Bays</hi> and <hi>Says</hi> more than they used to Trade with formerly, paying for them in Guineas at 30 <hi>s.</hi> which they took up at 24 or 25 <hi>s.</hi> at most, insomuch that Goods bought then in <hi>England</hi> are now sold for 10 <hi>l. per Cent.</hi> Cheaper at <hi>Amsterdam</hi> than they can be bought here: And we challenge them to prove, that since the fall of Guineas, that the <hi>Dutch</hi> buy up any thing near the quantities of those Commodities as they did be<g ref="char:EOLhyphen"/>fore the value of Guineas was abated.</p>
+            <p>Another Reason of the Increase of that Trade arises from the present War, the Government having had Occasion for about Two Million<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Money <hi>per Annum</hi> to pay their Army abroad, which the ballance of Trade not answering, was forced to send not only <hi>Norwich</hi> and <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> Stuffs and Says, but also Lead, Tin, Cloth, Bays, Leather, Tallow, and all other <hi>English</hi> Manufactures, all which is evident from the Custom-House <hi>Entries,</hi> so that they have groundlesly and impertinently alledg'd the <hi>Scarcity</hi> of Printed <hi>Callicoes, Bengals,</hi> and <hi>Persian</hi> Wrought Silks as a reason of their Assertion, since it can be proved that there has been more <hi>Indian</hi> Goods Sold and Printed these last Four Years, than in Twenty Years before.</p>
+            <p>Their Allegation that <hi>Raw Silks</hi> are the Product of our Woollen Manufactures is granted, but then if the Wearing all <hi>Persian</hi> Wrought Silks were Prohibited, what wou'd the Consequence be, but that our Woollen Manufacture wou'd be prohibited also among the <hi>Persians,</hi> who spend more of that Commodity than any other Nation in the World.</p>
+            <p>Thus much in Answer to the Chiefest of their Allegations, let us a little consider the irremediable inconveniencies that must of necessity en<g ref="char:EOLhyphen"/>sue such a <hi>Prohibition,</hi> It will undeniably be to the loss of Three parts in Four of the <hi>East-India</hi> Trade, which the Parliament at this time are consulting to Improve to the Discouragement of Industry and Commerce, the Irrepairable Prejudice of Navigation, the ruin of many of His Majesties Subjects that depend upon it, and tend to the unspeakable benefit of the <hi>Dutch, Scotch,</hi> and other Nations, who do already Trade to <hi>India, Persia, &amp;c.</hi> under better Priviledges, and much greater Advantages than we can pretend to.</p>
+            <p>It will exceedingly diminish the Kings Customs, (which considering our present Circumstances) cannot now be so well dispensed with. 'Tis well known, the most part of those Foreign Manufactures do bring in to the Crown 25 <hi>l. per Cent.</hi> Custom, which if Exported, the draw<g ref="char:EOLhyphen"/>back will leave but Two and a half to the King, which will abundantly discourage the Loan of that part of the Custom which is given by the Parliament as a Fund for this Years Expence of the War.</p>
+            <p>Nor will this <hi>Prohibition</hi> ever be an Encouragement to the making of Silks in <hi>England,</hi> as is pretended, except the wearing of Silks made in <hi>Holland, Italy,</hi> &amp;c. be Prohibited also, since it can't be deny'd, but the Manufactures Imported from those Countryes, may be af<g ref="char:EOLhyphen"/>forded Cheaper here than any of our <hi>English</hi> Silks, because they can have as much Work done there for One Shilling as we can have here for Three.</p>
+            <p>Their Allegation that this <hi>Prohibition</hi> will open a way for the Employing a great many <hi>Weavers</hi> and other Workmen here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who would otherways want business, is as frivolous and insignificant as any of the rest, seeing it may be return'd upon them with equal facility, for it is undeniable that Dying, Printing, and Staining <hi>East-India</hi> Wrought Silks and Callicoes, is the constant Em<g ref="char:EOLhyphen"/>ployment of many Thousand of Persons here as <hi>Dyers, Callenders, Stiffners, Printers,</hi> &amp;c. Whose whole Maintenance and Subsistence depends only upon this Trade, most of whom are Natural Born <hi>English</hi> Men, whereas our <hi>Canterbury</hi> Weavers are <hi>French, Dutch,</hi> and <hi>Walloons,</hi> who make little scruple of benefiting themselves at the Damage of the Publick.</p>
+            <p>Many more Reasons might be suggested; but from the Consideration of these few, it is apparent that such a <hi>Prohibition</hi> as these Gentlemen stickle for, is directly against the Interest of the Nation in general, and in the Conclusion is likely to prove very fatal to those <hi>Manufactories</hi> in whose favour it is to be made, since they have all along falsly insinuated the Increase of their Trade, to have pro<g ref="char:EOLhyphen"/>ceeded from the scarcity of these Imported <hi>Foreign</hi> Commodities, when it is occasion'd by no other Reason in the World, than the Rise of <hi>Guineas,</hi> our Miscarriages in the War, and the continual demands and exactions from abroad; so that for any thing yet dis<g ref="char:EOLhyphen"/>cover'd, notwithstanding the hopes they conceive from their <hi>Darling Prohibition,</hi> their present <hi>Flushing</hi> Trade may produce more mis<g ref="char:EOLhyphen"/>chievous effects than are now apprehended.</p>
+            <p>Therefore upon the whole, since the Nature of Trade is to Exchange one Commodity for another, if we <hi>Prohibit</hi> the use of those Imported hither, we cannot reasonably expect they shou'd give any manner of Encouragement to what we <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thither. So that although it be alledged that the Importation of Silks from <hi>Persia,</hi> mistakenly seems to be against the Improvement of our own Manu<g ref="char:EOLhyphen"/>factories: yet Considering that those Goods are brought over much Cheaper than they can be Manufactured in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ese parts of the World, the Prohibiting the Wearing of them here, shall turn to no better account than the making our own Manu<gap reason="illegible" resp="#keyers" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>es Dearer at home, and those Goods cheaper to our Neighbours, which disproportion will Naturally make our Manufactures wholly useless to them, whilst they make continual Progresses in <hi>That</hi> Trade, which we by this <hi>Prohibition</hi> shall utterly discountenance, and find it very dif<g ref="char:EOLhyphen"/>ficult to recover it again, when our necessities shall make us sensible of our Neglect: When those in whose favour this <hi>Prohibition</hi> shall be granted, finding they have no Competitors will set higher Rates upon their Goods, and be less careful to improve them in Goodness, leaving as nothing at last for our satisfaction, but the poor Consolation of being wise too late. All which is Humbly offered to the serious Consideration of the Honourable House of Commons.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <p>REASONS against Pro<g ref="char:EOLhyphen"/>hibiting the Wearing of <hi>East-India</hi> and <hi>Persia</hi> Wrought Silks, Bengals Dyed, and Printed Cal<g ref="char:EOLhyphen"/>licoes, <hi>&amp;c.</hi> in <hi>England.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
